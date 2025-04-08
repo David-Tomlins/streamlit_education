@@ -1,6 +1,9 @@
 import streamlit as st
 
-st.set_page_config(page_title="Training Portal", page_icon="📚")
+st.set_page_config(
+    page_title="Education Manager",  
+    page_icon="🎓"                  
+)
 
-st.title("Welcome to the Training Management System")
-st.markdown("Use the sidebar to navigate between pages.")
+st.title("Welcome to the Education Manager")
+st.markdown("Use the sidebar to navigate between admin, participants, and course bookings.")
