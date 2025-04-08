@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#EE7630"  # Ometis orange
+backgroundColor = "#FFFFFF"  # White background
+secondaryBackgroundColor = "#F0F2F6"  # Light grey for sidebar or secondary elements
+textColor = "#000000"  # Black text
+font = "sans serif"
